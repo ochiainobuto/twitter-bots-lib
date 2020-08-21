@@ -6,10 +6,10 @@ import twitter
 import secret
 
 api = twitter.Api(
-    consumer_key = secret.twDict['consumer_key'],
-    consumer_secret = secret.twDict['consumer_secret'],
-    access_token_key = secret.twDict['access_token_key'],
-    access_token_secret = secret.twDict['access_token_secret']
+    consumer_key = secret.twDict['a5nttkJQz8PobISloKPnxeM8E'],
+    consumer_secret = secret.twDict['cEzagoJYk1ZtlmVjN7CEerywVS5s57TywJDtlTg3omSYfdYNe7'],
+    access_token_key = secret.twDict['1233983232305033216-FjZq4FhLshWbQC7IYGGfsxnfvSKS57'],
+    access_token_secret = secret.twDict['unaRXD0HgtHngMQX8HREbmJrOGjTsRquvVNaZWYWUTBzl']
     )
 
 def get_search(term):
