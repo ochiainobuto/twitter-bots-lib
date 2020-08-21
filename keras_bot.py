@@ -7,7 +7,6 @@ import random
 
 word_list = [
     'keras', 'tensorflow', 'pytorch', '機械学習', '深層学習', 'AI', 'Unet', '物体検出', 'セグメンテーション'
-    '陰キャ', 'アナル', 'デリヘル'
 ]
 
 serch_word = random.choice(word_list)
