@@ -11,3 +11,4 @@ Janome==0.3.10
 gunicorn==19.7.1
 tweepy==3.8.0
 emoji==0.5.4
+secret==0.8
