@@ -4,6 +4,7 @@ import time
 from datetime import datetime
 import twitter
 import secret
+import tweepy
 
 CK='a5nttkJQz8PobISloKPnxeM8E'
 CS='cEzagoJYk1ZtlmVjN7CEerywVS5s57TywJDtlTg3omSYfdYNe7'
