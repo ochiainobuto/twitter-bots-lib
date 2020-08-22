@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-import tweepy
 import emoji
 from janome.tokenizer import Tokenizer
 import collections
 import random
+import tweepy
 
 word_list = [
     'keras', 'tensorflow', 'pytorch', '機械学習', '深層学習', 'AI', 'Unet', '物体検出', 'セグメンテーション'
