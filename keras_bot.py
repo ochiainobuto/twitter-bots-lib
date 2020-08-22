@@ -19,10 +19,10 @@ def remove_emoji(src_str):
 tweet_list = []
 emojis = ' 🤗⭕🤓🤔🤘🦁⭐🆗🆖🈲🤐🤗🤖🤑🆙⏩'
 
-CK='a5nttkJQz8PobISloKPnxeM8E'
-CS='cEzagoJYk1ZtlmVjN7CEerywVS5s57TywJDtlTg3omSYfdYNe7'
-AT='1233983232305033216-FjZq4FhLshWbQC7IYGGfsxnfvSKS57'
-AS='unaRXD0HgtHngMQX8HREbmJrOGjTsRquvVNaZWYWUTBzl'
+CK = 'LzI6hPakXfdZlrOztsXnKsTue'
+CS = 'xphK7hZ83liGErYXA7DkhmJa4bzBR3eNaOJzaLPhG7mhdYJia5'
+AT = '1233983232305033216-7BENDhOweYkEZfU9MTTpDRpds0wzXj'
+AS = '5S8wOMtDSjr3Xx5FuPTwmEBudZTzFfoR35uSgcJJMxcw8'
 
 auth = tweepy.OAuthHandler(CK, CS)
 auth.set_access_token(AT, AS)
